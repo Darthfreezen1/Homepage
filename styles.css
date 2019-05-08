@@ -1,0 +1,118 @@
+@font-face{
+    font-family: "UbuntuMono";
+    src: url("fonts/Ubuntu Mono Nerd Font Complete.ttf");
+}
+
+
+body{
+    text-align: center;
+    background-color: #3c4f39;
+}
+
+.weather{
+    border: 0px solid black;
+    background-color: #6d752759;
+    font-family: 'UbuntuMono';
+    border: 0px solid black;
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 30px;
+
+}
+
+.location-timezone{
+    color: #938F31;
+}
+
+.container{
+    background-color: #6d752759;
+    font-family: 'UbuntuMono';
+    display: inline-block;
+    border: 0px solid black;
+    padding: 30px;
+    margin: 20px;
+    text-align: left;
+}
+
+#res p{
+    color: #BFAA40;
+}
+
+#social p{
+    color: #A2B13B;
+}
+
+#media p{
+    color: #AB8E38;
+}
+
+#shop p{
+    color: #938F31;
+}
+
+#wiki p{
+    color: #938A31;
+}
+
+a{
+    color: #CCCBC0;
+}
+
+
+/* UGH */
+.temperature-degree0{
+    color: #938F31;
+}
+
+.temperature-description0{
+    color: #938A31;
+}
+
+.temperature-degree1{
+    color: #938F31;
+}
+
+.temperature-description1{
+    color: #938A31;
+}
+
+.temperature-degree2{
+    color: #938F31;
+}
+
+.temperature-description2{
+    color: #938A31;
+}
+
+.temperature-degree3{
+    color: #938F31;
+}
+
+.temperature-description3{
+    color: #938A31;
+}
+
+.temperature-degree4{
+    color: #938F31;
+}
+
+.temperature-description4{
+    color: #938A31;
+}
+
+.temperature-degree5{
+    color: #938F31;
+}
+
+.temperature-description5{
+    color: #938A31;
+}
+
+.temperature-degree6{
+    color: #938F31;
+}
+
+.temperature-description6{
+    color: #938A31;
+}
