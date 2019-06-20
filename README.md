@@ -24,6 +24,8 @@ The goal of AHMT is to increase productivity while having some fun along the way
 4. Run the script, it should download a png of the current +3 days of weather
 *Optionally, set the script to run at startup. Im on i3 currently so I can just add an exec line to the config*
 
+*NOTE: This doesnt look as good as the Darksky method, but is more functional for less effort :p*
+
 ## TODO
 1. Make it even easier to change weather methods
 2. Make it even easier to change colors
