@@ -1,4 +1,4 @@
-# AMHT: Another Minimal Homepage Template this sucks check my new homepage repo
+# AMHT: Another Minimal Homepage Template this sucks check my new homepage repo <- that also sucks i got another new one.
 Tired of using Chrome or Firefoxes default or "custom built" default home page? What something lightweight, fast, and customizable? Do you like to tinker, and make things your own? Look no further!
 
 The goal of AHMT is to increase productivity while having some fun along the way.
